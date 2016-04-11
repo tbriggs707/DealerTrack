@@ -1,0 +1,6 @@
+C:\Users\tbriggs\Documents\Projects\DealerTrack\StringMods\bin\Debug\StringMods.exe.config
+C:\Users\tbriggs\Documents\Projects\DealerTrack\StringMods\bin\Debug\StringMods.exe
+C:\Users\tbriggs\Documents\Projects\DealerTrack\StringMods\bin\Debug\StringMods.pdb
+C:\Users\tbriggs\Documents\Projects\DealerTrack\StringMods\obj\Debug\StringMods.csprojResolveAssemblyReference.cache
+C:\Users\tbriggs\Documents\Projects\DealerTrack\StringMods\obj\Debug\StringMods.exe
+C:\Users\tbriggs\Documents\Projects\DealerTrack\StringMods\obj\Debug\StringMods.pdb
